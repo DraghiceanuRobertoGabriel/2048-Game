@@ -1,2 +1,3 @@
 # 2048-Game
-The 2048 game made in Cpp
+Personal project.
+My version of the 2048 game made in Cpp.
